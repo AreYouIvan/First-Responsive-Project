@@ -1,0 +1,61 @@
+.c1 {
+    height: 100vh;
+}
+
+.c2, .c4 {
+    width: 50%;
+    height: 50vh;
+}
+
+.c3 {
+    height: 47vh;
+    width: 40%;
+    order: 3;
+}
+
+.c4 {
+    order: 1;
+}
+
+.c5 {
+    order: 4;
+    width: 60%;
+}
+
+.c2 {
+    order:2;
+}
+
+
+
+/* FOOTER */
+
+.footer {
+    align-items: center ;
+}
+
+.footer__section {
+    height: 20rem;
+    align-items: center;
+}
+
+.footer__contact {
+    width: 50%;
+    height: auto;
+    order: 1;
+}
+
+.footer__media {
+    width: 100%;
+    height: auto;
+    order: 3;
+}
+
+.footer__forms {
+    width: 50%;
+    height: auto;
+    order: 2;
+}
+
+
+

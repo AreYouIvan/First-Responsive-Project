@@ -1,0 +1,33 @@
+.c1 {
+    height: 45vh;
+}
+
+.c2, .c4 {
+    width: 50%;
+    height: 50vh;
+}
+
+.c3 {
+    height: 40vh;
+    width: 100%;
+    order: 4;
+}
+
+.c4 {
+    order: 1;
+}
+
+.c5 {
+    order: 3;
+}
+
+.c2 {
+    order:2;
+}
+
+
+
+/* FOOTER */
+
+
+
